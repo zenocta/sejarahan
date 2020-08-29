@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>History Club</title>
-    <link>https://zenocta.github.io/sejarahan/</link>
+    <link>https://zenocta.github.io/sejarahan</link>
       <atom:link href="https://zenocta.github.io/sejarahan/index.xml" rel="self" type="application/rss+xml" />
     <description>History Club</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>id</language><copyright>© PP HC32. 2020</copyright><lastBuildDate>Fri, 11 Sep 2020 16:00:00 +0700</lastBuildDate>
