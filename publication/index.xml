@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | History Club</title>
+    <link>https://zenocta.github.io/sejarahan/publication/</link>
+      <atom:link href="https://zenocta.github.io/sejarahan/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>id</language><copyright>© PP HC32. 2020</copyright>
+    <image>
+      <url>https://zenocta.github.io/sejarahan/images/icon_hu76caefaab0ac8ffc84d7033567ad4054_83936_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://zenocta.github.io/sejarahan/publication/</link>
+    </image>
+    
+  </channel>
+</rss>
